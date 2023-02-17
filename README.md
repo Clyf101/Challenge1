@@ -12,4 +12,4 @@ some major changes that was made
   ![HWRK1](https://user-images.githubusercontent.com/120433642/219546211-ea32b8c9-3346-4f8f-ad90-5ae3b165df67.png)
   ![HWRK2](https://user-images.githubusercontent.com/120433642/219546321-5c0bf696-e611-448e-a6f7-85b37f4ebb09.png)
   ### Live page: https://clyf101.github.io/HWRK1/
-  #### Repo Link: https://github.com/Clyf101/Challenge1
+  #### Repo Link: https://github.com/Clyf101/HWRK1
